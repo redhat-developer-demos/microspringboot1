@@ -1,0 +1,7 @@
+microspringboot1:
+  customer_url: "http://microspringboot2:8080"
+  orders_url: "http://microspringboot3:8080"
+server:
+  tomcat:
+    max-threads: 10
+  port: 8080

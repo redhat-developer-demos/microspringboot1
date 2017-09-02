@@ -1,0 +1,6 @@
+microspringboot1:
+  customer_url: "http://localhost:8082"
+  orders_url: "http://localhost:8083"
+server:
+  tomcat:
+    max-threads: 10
