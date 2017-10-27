@@ -14,7 +14,7 @@ Invokes microspringboot3 (orders)
 
 ToDo:
 
-Figure out why @HystrixCommand does not work without @RequstMapping
+Figure out why @HystrixCommand does not work without @RequestMapping
 
 Log Aggregation
 
